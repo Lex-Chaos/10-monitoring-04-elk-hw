@@ -45,9 +45,9 @@ Filebeat следует сконфигурировать для отправки
 
 **Ответ:**
 
-![Docker](https://github.com/Lex-Chaos/10-monitoring-034-elk-hw/blob/main/img/Task_1-1.png)
+![Docker](https://github.com/Lex-Chaos/10-monitoring-04-elk-hw/blob/main/img/Task_1-1.png)
 
-![Kibana](https://github.com/Lex-Chaos/10-monitoring-034-elk-hw/blob/main/img/Task_1-2.png)
+![Kibana](https://github.com/Lex-Chaos/10-monitoring-04-elk-hw/blob/main/img/Task_1-2.png)
 
 ## Задание 2
 
@@ -62,7 +62,7 @@ Filebeat следует сконфигурировать для отправки
 
 **Ответ:**
 
-![Docker](https://github.com/Lex-Chaos/10-monitoring-034-elk-hw/blob/main/img/Task_2-2.png)
+![Docker](https://github.com/Lex-Chaos/10-monitoring-04-elk-hw/blob/main/img/Task_2-2.png)
 
 ### Как оформить решение задания
 
